@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-ota/packages/tycho-ota-0.1.2.tar.gz",
-  "checksum": "sha256:d2509d6662c628bb131e9d40fff7b038aa1cafeff3db3cec28239d1bd36cb103",
-  "releaseDate": "2025-06-09T20:57:18Z",
-  "releaseNotes": "Release 0.1.2"
+  "version": "0.1.3",
+  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-ota/packages/tycho-ota-0.1.3.tar.gz",
+  "checksum": "sha256:8c99f509f29c5fbd99a2de42c0c96d036d2cf3f753f6124e018a3d13eaabbd5a",
+  "releaseDate": "2025-06-09T21:27:27Z",
+  "releaseNotes": "Release 0.1.3"
 }
