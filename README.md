@@ -7,6 +7,7 @@ from the private source code repository and are available for public use.
 
 | Service | Latest Version | Release Date | Description |
 |---------|---------------|--------------|-------------|
+| tycho-ota | [0.1.2](services/tycho-ota/packages/tycho-ota-0.1.2.tar.gz) | 2025-06-09 | Tycho Swarm service |
 | tycho-web | [0.1.4](services/tycho-web/packages/tycho-web-0.1.4.tar.gz) | 2025-06-09 | Web interface service |
 
 ## Usage
