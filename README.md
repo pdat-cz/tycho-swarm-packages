@@ -1,2 +1,17 @@
-# tycho-swarm-packages
-Packages for project Tycho Swarm
+# Tycho Swarm Packages
+
+This repository contains deployment packages for the Tycho Swarm platform. These packages are automatically generated
+from the private source code repository and are available for public use.
+
+## Available Services
+
+| Service | Latest Version | Release Date | Description |
+|---------|---------------|--------------|-------------|
+
+## Usage
+
+See the [usage documentation](docs/usage.md) for instructions on how to use these packages.
+
+## OTA Updates
+
+For information on setting up OTA (Over-The-Air) updates, see the [OTA updates documentation](docs/ota-updates.md).
