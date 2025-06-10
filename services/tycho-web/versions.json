@@ -1,5 +1,12 @@
 {"versions":[
   {
+    "version": "0.1.5",
+    "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-web/packages/tycho-web-0.1.5.tar.gz",
+    "checksum": "sha256:21df010a923d251f232e2cc96f517ab805e8acad6f7b4c6787486ff180c92809",
+    "releaseDate": "2025-06-10T05:37:00Z",
+    "releaseNotes": "Release 0.1.5"
+  },
+  {
     "version": "0.1.4",
     "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-web/packages/tycho-web-0.1.4.tar.gz",
     "checksum": "sha256:4c4aaeb4590a97d95927422e843410afc781dd58e6c05cfa86559e9bd996b480",
