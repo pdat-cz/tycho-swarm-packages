@@ -1,7 +1,0 @@
-{
-  "version": "v0.1.20",
-  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-ota/v0.1.20.tar.gz",
-  "checksum": "sha256:7687d8ab2e3b40ffac8abd81517c2311308ec8079dfb1386c8cae4599b2d4a6f",
-  "releaseDate": "2025-06-11T14:57:05Z",
-  "releaseNotes": "Release v0.1.20"
-}
