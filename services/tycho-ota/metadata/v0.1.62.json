@@ -1,0 +1,7 @@
+{
+  "version": "v0.1.62",
+  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-ota/v0.1.62.tar.gz",
+  "checksum": "sha256:d0743649667abe1d0bf344e480b7668df7041c24c1b6cc461a262cdc775c9004",
+  "releaseDate": "2025-06-15T20:17:56Z",
+  "releaseNotes": "Release v0.1.62"
+}
