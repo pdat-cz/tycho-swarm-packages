@@ -1,0 +1,7 @@
+{
+  "version": "v0.1.15",
+  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-web/v0.1.15.tar.gz",
+  "checksum": "sha256:c57ebf524067903b04d239c082c2946ad30a7e7607a95093af2883520650936b",
+  "releaseDate": "2025-06-15T17:52:35Z",
+  "releaseNotes": "Release v0.1.15"
+}
