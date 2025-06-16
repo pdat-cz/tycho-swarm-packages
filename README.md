@@ -8,7 +8,7 @@ from the private source code repository and are available for public use.
 | Service | Latest Version | Release Date | Description |
 |---------|---------------|--------------|-------------|
 | tycho-bus | [v0.1.4](services/tycho-bus/vv0.1.4.tar.gz) | 2025-06-16 | Messaging bus service |
-| tycho-ota | [v0.1.71](services/tycho-ota/vv0.1.71.tar.gz) | 2025-06-16 | Tycho Swarm service |
+| tycho-ota | [v0.1.72](services/tycho-ota/vv0.1.72.tar.gz) | 2025-06-16 | Tycho Swarm service |
 | tycho-web | [v0.1.25](services/tycho-web/vv0.1.25.tar.gz) | 2025-06-16 | Web interface service |
 
 ## Usage
