@@ -1,7 +1,7 @@
 {
-  "version": "v0.1.17",
-  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-web/v0.1.17.tar.gz",
-  "checksum": "sha256:eb34d414029eb639c019d39e3a0e997b64bf1e0f5bc31aa214e324d5e314537c",
-  "releaseDate": "2025-06-16T05:25:55Z",
-  "releaseNotes": "Release v0.1.17"
+  "version": "v0.1.18",
+  "url": "https://github.com/pdat-cz/tycho-swarm-packages/raw/main/services/tycho-web/v0.1.18.tar.gz",
+  "checksum": "sha256:9fbdb614ded254277497429dc49108a95d448674ff83e7ee2c12ebe1729fcb4f",
+  "releaseDate": "2025-06-16T05:44:41Z",
+  "releaseNotes": "Release v0.1.18"
 }
